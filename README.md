@@ -2,7 +2,7 @@
 This project use Python and Amazon Web Service to open and close a door with Face Recognition
 
 
-Create a AWS account and save credentials into a excel file
+Create a AWS account and save credentials into a csv file ( More Secure Than hardcoding the password)
 Install Poto3 module to access AWS services
 Keep a photo with the face to compare with the captured pictures
 
