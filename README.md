@@ -14,6 +14,6 @@ Hardware Requirements
 - Jumper Wires
 - Breadboard
 
-Optionla Hardware
+Optional Hardware
 - Raspberry Pi Fan (5V)
 
